@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         script doing nothing at all
+// @name         script does nothing at all
 // @version      2.3
-// @description  who shot ya nigga
+// @description  who shot ya'll 
 // @match        *://*/*
 // @grant        unsafeWindow
 // @run-at       document-start
