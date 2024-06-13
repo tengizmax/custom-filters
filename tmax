@@ -1,0 +1,12 @@
+// ==UserScript==
+// @name         script doing nothing at all
+// @version      2.3
+// @description  who shot ya
+// @match        *://*/*
+// @grant        unsafeWindow
+// @run-at       document-start
+// ==/UserScript==
+
+(function() {
+
+})();
